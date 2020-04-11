@@ -1,0 +1,53 @@
+﻿  Npc.cpp
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,43): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,43): warning C4244:         with
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,43): warning C4244:         [
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,43): warning C4244:             T=int
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,43): warning C4244:         ]
+  Player.cpp
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,40): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,40): warning C4244:         with
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,40): warning C4244:         [
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,40): warning C4244:             T=int
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Npc.cpp(17,40): warning C4244:         ]
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,42): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,42): warning C4244:         with
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,42): warning C4244:         [
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,42): warning C4244:             T=int
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,42): warning C4244:         ]
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,39): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,39): warning C4244:         with
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,39): warning C4244:         [
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,39): warning C4244:             T=int
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(53,39): warning C4244:         ]
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(71,13): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(72,14): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(78,19): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(83,19): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(89,19): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(94,19): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+  main.cpp
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\Player.cpp(100,18): warning C4305:  -=: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(386,14): warning C4244:  инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(421,20): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(433,31): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(441,31): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(449,31): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(457,31): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(487,21): warning C4305:  =: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(489,32): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(501,25): warning C4305:  =: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(503,32): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(515,26): warning C4305:  =: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(517,32): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(529,26): warning C4305:  =: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(531,32): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(543,26): warning C4305:  =: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(545,32): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(558,32): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(582,20): warning C4305:  =: усечение из "double" в "float"
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(583,32): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(777,36): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\game\main.cpp(777,26): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+  game.vcxproj -> C:\Users\nikit\OneDrive\Рабочий стол\прога\vs\GameJam2019 D1giT4L pony\game\Debug\game.exe
